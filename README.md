@@ -30,6 +30,7 @@ No installation required
 ## Usage
 To view the project just use the link below to see the page on github pages!
 
+https://chaselee21.github.io/password-generator/
 
 ## Contributing
 For this project I worked with my two class mates. Here are there github pages to their repository.
